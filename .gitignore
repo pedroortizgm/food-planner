@@ -19,6 +19,7 @@
 .env.production.local
 ehthumbs.db
 Icon?
+.vscode
 Thumbs.db
 
 *.log
